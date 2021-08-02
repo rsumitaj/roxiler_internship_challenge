@@ -1,0 +1,18 @@
+{
+  "name": "roxiler_internship_challenge",
+  "version": "1.0.0",
+  "description": "A task given for internship role ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumit Raj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "request": "^2.88.2"
+  }
+}
